@@ -1,8 +1,8 @@
 # Math-Resources
-Linear Algebra
+Linear Algebra: UC Davis Linear Algebra
 
-Real Analysis
+Real Analysis: Stephen Abbot's Real Analysis book
 
-Number Theory
+Number Theory: A random book I found, haven't really put much effort into it.
 
-Fractals
+Fractals: Mandlebrot's paper
